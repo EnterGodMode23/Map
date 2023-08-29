@@ -1,4 +1,4 @@
-package com.example.map.app.di.presentation
+package com.example.map.app.presentation
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

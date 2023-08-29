@@ -1,4 +1,4 @@
-package com.example.map.app.di.presentation
+package com.example.map.app.presentation
 
 import android.app.Dialog
 import android.os.Bundle
@@ -104,8 +104,6 @@ class MapFragment : Fragment() {
             R.id.list -> navController.navigate(R.id.pointsListFragment)
             R.id.save -> showDialog()
         }
-        val socket = Socket("192.168.0.1", 8080)
-        socket.getInputStream().read()
         return super.onOptionsItemSelected(item)
     }
 

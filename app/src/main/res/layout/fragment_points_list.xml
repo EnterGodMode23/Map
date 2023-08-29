@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:layout_margin="10dp"
 
-    tools:context=".app.di.presentation.PointsListFragment">
+    tools:context=".app.presentation.PointsListFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv"
