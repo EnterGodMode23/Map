@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Coordinates">Координаты</string>
+    <string name="latitude">Широта:</string>
+    <string name="longitude">Долгота:</string>
+    <string name="save">Сохранить</string>
+    <string name="save_coordinates">Сохранить координаты</string>
+    <string name="points_list">Список точек</string>
+</resources>
